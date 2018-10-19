@@ -14,8 +14,9 @@ $ maka add cxb-bootstrap
 const view = {
     component: 'div',
     children: [{
-        component: 'antd.Button',
-        children: 'submit'
+        component: 'bootstrap.Button',
+        variant: 'primary',
+        children: 'Button'
     }]
 }
 ```
