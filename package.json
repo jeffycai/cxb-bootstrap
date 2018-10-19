@@ -7,12 +7,12 @@
   "author": "",
   "repository": {
     "type": "git",
-    "url": "https://github.com/makajs/cxb-bootstrap.git"
+    "url": "https://github.com/jeffycai/cxb-bootstrap.git"
   },
   "bugs": {
-    "url": "https://github.com/makajs/cxb-bootstrap/issues"
+    "url": "https://github.com/jeffycai/cxb-bootstrap/issues"
   },
-  "homepage": "https://github.com/makajs/cxb-bootstrap#readme",
+  "homepage": "https://github.com/jeffycai/cxb-bootstrap#readme",
   "scripts": {
     "start": "maka start",
     "dev": "maka start --dev",

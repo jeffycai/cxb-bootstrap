@@ -887,7 +887,7 @@ module.exports = _defineProperty;
 /* 33 */
 /***/ (function(module) {
 
-module.exports = {"isMakaApp":true,"name":"cxb-bootstrap","description":"cxb-bootstrap","version":"1.0.0","license":"MIT","author":"","repository":{"type":"git","url":"https://github.com/makajs/cxb-bootstrap.git"},"bugs":{"url":"https://github.com/makajs/cxb-bootstrap/issues"},"homepage":"https://github.com/makajs/cxb-bootstrap#readme","scripts":{"start":"maka start","dev":"maka start --dev","build":"maka build","pkg":"maka pkg"},"dependencies":{},"server":{"proxy":null,"port":8000},"subAppDir":"./apps","devDependencies":{"react-bootstrap":"^0.32.4"}};
+module.exports = {"isMakaApp":true,"name":"cxb-bootstrap","description":"cxb-bootstrap","version":"1.0.1","license":"MIT","author":"","repository":{"type":"git","url":"https://github.com/makajs/cxb-bootstrap.git"},"bugs":{"url":"https://github.com/makajs/cxb-bootstrap/issues"},"homepage":"https://github.com/makajs/cxb-bootstrap#readme","scripts":{"start":"maka start","dev":"maka start --dev","build":"maka build","pkg":"maka pkg"},"dependencies":{},"server":{"proxy":null,"port":8000},"subAppDir":"./apps","devDependencies":{"react-bootstrap":"^0.32.4"}};
 
 /***/ }),
 /* 34 */
