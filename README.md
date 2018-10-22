@@ -13,6 +13,7 @@ $ maka add cxb-bootstrap
 ```javascript
 const view = {
     component: 'div',
+    className: 'cxb-bootstrap',
     children: [{
         component: 'bootstrap.Button',
         variant: 'primary',
@@ -25,9 +26,7 @@ const view = {
 ```html
 <script>
     window.main = function (maka) {
-        maka.load(['cxb-bootstrap']).then(()=>{
-            maka.render('yourApp','app')
-        })
+        maka.render('cxb-bootstrap', 'app');
     }
 <script>
 ```
